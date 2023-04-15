@@ -52,3 +52,4 @@ if __name__ == '__main__':
     path = open('log_dem.txt', 'w')
     path_save = '../data/dem/'
     main(url, path, path_save)
+    
